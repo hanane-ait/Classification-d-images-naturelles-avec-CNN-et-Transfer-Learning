@@ -82,6 +82,3 @@ Les modèles sont comparés à l'aide des métriques de validation. Le modèle s
 - Rapport de classification
 - Matrice de confusion
 
-## Auteur
-
-Votre nom ou identifiant GitHub.
